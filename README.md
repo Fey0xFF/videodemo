@@ -1,1 +1,1 @@
-This is a test... :)
+This is for testing purposes :)
